@@ -1,0 +1,6 @@
+framework module Pods_NwtworkingAlamoFire {
+  umbrella header "Pods-NwtworkingAlamoFire-umbrella.h"
+
+  export *
+  module * { export * }
+}
